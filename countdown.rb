@@ -1,4 +1,4 @@
-def countdown(clock)
+def countdown
   clock = 10
   while clock > 0
     puts "#{clock} SECOND(S)!"
@@ -8,4 +8,4 @@ def countdown(clock)
   puts "HAPPY NEW YEAR!"
 end
 
-clock
+countdown
