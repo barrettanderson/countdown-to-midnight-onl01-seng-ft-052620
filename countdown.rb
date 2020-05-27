@@ -1,4 +1,4 @@
-  clock = 10
+clock = 10
 
 def countdown
   while clock > 0
