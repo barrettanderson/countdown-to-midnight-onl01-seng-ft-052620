@@ -1,4 +1,5 @@
-#write your code here
+countdown = 12
 
 def countdown
+
 end
