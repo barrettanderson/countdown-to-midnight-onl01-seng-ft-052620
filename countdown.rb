@@ -1,6 +1,6 @@
 def countdown(time)
   while time > 0
-    puts "#{clock} SECOND(S)!"
+    puts "#{time} SECOND(S)!"
     time -= 1
     sleep(1)
   end
