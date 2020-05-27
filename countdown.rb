@@ -1,4 +1,4 @@
-def countdown
+def countdown(time)
   clock = 10
   while clock > 0
     puts "#{clock} SECOND(S)!"
