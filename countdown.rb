@@ -1,5 +1,4 @@
 def countdown(time)
-  clock = 10
   while clock > 0
     puts "#{clock} SECOND(S)!"
     clock -= 1
@@ -7,3 +6,5 @@ def countdown(time)
   end
   puts "HAPPY NEW YEAR!"
 end
+
+time = 10
