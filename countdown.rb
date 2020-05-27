@@ -1,4 +1,4 @@
-countdown = 12
+countdown = 10
 
 def countdown
 
