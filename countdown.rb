@@ -7,4 +7,3 @@ def countdown(time)
   puts "HAPPY NEW YEAR!"
 end
 
-countdown (10)
