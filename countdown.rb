@@ -5,3 +5,5 @@ while countdown > 0
   countdown -= 1
   sleep(1)
 end
+
+puts "HAPPY NEW YEAR!"
