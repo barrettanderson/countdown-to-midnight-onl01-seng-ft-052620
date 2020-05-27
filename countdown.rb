@@ -5,5 +5,5 @@ while countdown > 0
 end
 
 def countdown
-  
+
 end
