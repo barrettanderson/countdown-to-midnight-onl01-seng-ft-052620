@@ -1,6 +1,6 @@
 countdown = 10
 while countdown > 0
-  puts "#{countdown} SECOND(S)!"
+  puts "<n> SECOND(S)!"
   countdown -= 1
 end
 
