@@ -1,6 +1,6 @@
+  time = 10
 
 def countdown
-  time = 10
   while time > 0
     puts "#{time} SECOND(S)!"
     time -= 1
